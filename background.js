@@ -1,3 +1,5 @@
+
+
 // window.addTab = function(){console.log('tab added')}
 
 chrome.webNavigation.onHistoryStateUpdated.addListener(function(details) {
