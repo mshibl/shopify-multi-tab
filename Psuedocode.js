@@ -7,6 +7,7 @@
 	// Don't allow idental tab titles
 	// Don't allow special charcters in tab names
 	// Handle titles with spaces
+	// Don't allow empty titles
 
 // Next Steps:
 	// DONE // Remove tabs from main text entry section AFTER all text has been moved to the new tabs 
