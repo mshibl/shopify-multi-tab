@@ -1,16 +1,20 @@
 // Bugs/improvments:
-	// Make sure tabs section is added only once, (it duplicates after clicking on save)
-	// Capitalize the tabs titles
-	// Allow for deleteing tab
-	// Allow for changing tab title
+	// DONE // Make sure tabs section is added only once, (it duplicates after clicking on save)
+	// DONE // Capitalize the tabs titles
+	// DONE // Allow for deleteing tab
+	// DONE // Allow for changing tab title
 	// Replace tab textarea with more advanced text editor
-	// Don't allow idental tab titles
-	// Don't allow special charcters in tab names
-	// Handle titles with spaces
+	// DONE // Handle titles with spaces
 	// Don't allow empty titles
+	// Only works if JQuery UI installed
+	// Doesn't work with newly created product
+	// Add the tabs in te middle of the document not in the end?
+	// Move tabs right / left
+	// issue happened when delete button clicked
+	// issue happened because of empty text tab
 
-// Next Steps:
-	// DONE // Remove tabs from main text entry section AFTER all text has been moved to the new tabs 
-	// On click save:
-		// Parse tabs text and title into HTML
-		// Add the collected parsed HTML into the main text entry area
+
+
+Restores moisture, combats damage, provides nutrients
+Ideal for all skin types and convenient travel size
+Free of parabens, synthetics, gluten, grains, fragrances

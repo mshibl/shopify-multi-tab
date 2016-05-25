@@ -1,11 +1,11 @@
-/*#addTab a{
-	color: #4293c2;
-}*/
-
-/*.visible {
-	display: auto;
+.tabTextInput{
+	border: 1px solid #d3dbe2;
+	min-height: 100px;
+	height: auto;
 }
 
-.hidden {
-	display: none;
-}*/
+.medium-editor-action{
+	background-color: #31373D;
+	border: none;
+	color: wheat;
+}
