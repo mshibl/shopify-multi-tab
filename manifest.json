@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Product Tabs",
-  "version": "0.0.3",
+  "version": "0.0.4",
 
   "description": "This extensiosn allows for adding multiple tabs when adding product to Shopify",
   "icons": { "16": "icon16.png",
